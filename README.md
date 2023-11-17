@@ -1,4 +1,4 @@
-# Tech stack
+# Languages-Frameworks-Tools
 
 <img src="https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=green"/> <img src="https://img.shields.io/badge/Git-191919?style=for-the-badge&logo=git&logoColor=E95420"/>
 <img src="https://img.shields.io/badge/fastapi-191919?style=for-the-badge&logo=fastapi&logoColor=009688"/>
