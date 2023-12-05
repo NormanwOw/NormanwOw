@@ -18,3 +18,5 @@
 <img src="https://img.shields.io/badge/pyqt5-191919?style=for-the-badge&logo=qt&logoColor=41CD52"/> 
 <img src="https://img.shields.io/badge/qtdesigner-191919?style=for-the-badge&logo=qt&logoColor=41CD52"/> 
 <img src="https://img.shields.io/badge/docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=API-site-Telegram-Bots)
