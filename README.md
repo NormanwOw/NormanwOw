@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/qtdesigner-191919?style=for-the-badge&logo=qt&logoColor=41CD52"/> 
 <img src="https://img.shields.io/badge/docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
+
+
+
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=DJANGO.site-Telegram-bots)](https://github.com/NormanwOw/DJANGO.site-Telegram-bots)
 [![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=FastAPI.API-site-Telegram-Bots)](https://github.com/NormanwOw/FastAPI.API-site-Telegram-Bots)
 [![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=Shavuha-Telegram-Bot)](https://github.com/NormanwOw/Shavuha-Telegram-Bot)
 [![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=Passport-scanner)](https://github.com/NormanwOw/Passport-scanner)
