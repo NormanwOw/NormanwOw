@@ -23,6 +23,3 @@
 
 
 [![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=DJANGO.site-Telegram-bots)](https://github.com/NormanwOw/DJANGO.site-Telegram-bots)
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=FastAPI.API-site-Telegram-Bots)](https://github.com/NormanwOw/FastAPI.API-site-Telegram-Bots)
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=Shavuha-Telegram-Bot)](https://github.com/NormanwOw/Shavuha-Telegram-Bot)
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=Passport-scanner)](https://github.com/NormanwOw/Passport-scanner)
