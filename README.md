@@ -19,8 +19,3 @@
 <img src="https://img.shields.io/badge/selenium-191919?style=for-the-badge&logo=selenium"/>
 <img src="https://img.shields.io/badge/docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/rabbitmq-191919?style=for-the-badge&logo=rabbitmq"/>
-
-
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=DJANGO.site-Telegram-bots)](https://github.com/NormanwOw/DJANGO.site-Telegram-bots)
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NormanwOw&repo=TEST.ReferralSystemService)](https://github.com/NormanwOw/TEST.ReferralSystemService)
-
