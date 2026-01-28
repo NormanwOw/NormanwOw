@@ -19,3 +19,5 @@
 <img src="https://img.shields.io/badge/selenium-191919?style=for-the-badge&logo=selenium"/>
 <img src="https://img.shields.io/badge/docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/rabbitmq-191919?style=for-the-badge&logo=rabbitmq"/>
+<img src="https://img.shields.io/badge/kafka-191919?style=for-the-badge&logo=kafka"/>
+<img src="https://img.shields.io/badge/minio-191919?style=for-the-badge&logo=minio"/>
